@@ -5,7 +5,9 @@ var header = new Header({
     bannerColor: ['#090979', '#00d4ff'],
     littleTitle: true,
     clear: true
-}, {
+})
+
+header.setArgs( {
     separator: `—`,
     name: ` 💻 Machine Information `,
     info: [`CPU: 57%`, `RAM: 85%`]

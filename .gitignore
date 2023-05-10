@@ -1,3 +1,4 @@
+node_modules/
 node_modules/.package-lock.json
 node_modules/.bin/figlet
 node_modules/.bin/figlet.cmd

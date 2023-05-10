@@ -21,6 +21,7 @@ class Header {
 
         this.constructor.OptionsVerifications(options, ...args)
 
+        this.options = options
         this.title = options.bTitle || options.bannerTitle || `HeaderMaker`;
         this.style = options.bStyle || options.bannerStyle || `Doom`;
         this.color = options.bColor || options.bannerColor || null;
@@ -40,6 +41,7 @@ class Header {
      * @param {string[]} args.info - The color of title.
      */
     setArgs(...args){
+        this.constructor.OptionsVerifications(this.options, ...args)
         this.args = args
     }
 
