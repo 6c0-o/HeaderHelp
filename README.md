@@ -29,7 +29,7 @@ npm install headerhelp
 
 ## How to use
 ```js
-const { Header } = require('headerhelp');
+const Header = require('headerhelp');
 var header = new Header({
     bannerTitle: string,
 	  bannerStyle: string,
@@ -46,7 +46,7 @@ console.log(header);
 ```
 - Use ``setArgs(...args)``
 ```js
-const { Header } = require('headerhelp');
+const Header = require('headerhelp');
 var header = new Header({
     bannerTitle: string,
 	  bannerStyle: string,
