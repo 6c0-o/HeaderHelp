@@ -1,6 +1,6 @@
 {
   "name": "headerhelp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Help to make good console center header  with information",
   "main": "index.js",
   "scripts": {},
