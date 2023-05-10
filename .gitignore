@@ -1,0 +1,796 @@
+node_modules/.package-lock.json
+node_modules/.bin/figlet
+node_modules/.bin/figlet.cmd
+node_modules/.bin/figlet.ps1
+node_modules/.bin/tsc
+node_modules/.bin/tsc.cmd
+node_modules/.bin/tsc.ps1
+node_modules/.bin/tsserver
+node_modules/.bin/tsserver.cmd
+node_modules/.bin/tsserver.ps1
+node_modules/@types/tinycolor2/index.d.ts
+node_modules/@types/tinycolor2/LICENSE
+node_modules/@types/tinycolor2/package.json
+node_modules/@types/tinycolor2/README.md
+node_modules/ansi-styles/index.d.ts
+node_modules/ansi-styles/index.js
+node_modules/ansi-styles/license
+node_modules/ansi-styles/package.json
+node_modules/ansi-styles/readme.md
+node_modules/chalk/index.d.ts
+node_modules/chalk/license
+node_modules/chalk/package.json
+node_modules/chalk/readme.md
+node_modules/chalk/source/index.js
+node_modules/chalk/source/templates.js
+node_modules/chalk/source/util.js
+node_modules/color-convert/CHANGELOG.md
+node_modules/color-convert/conversions.js
+node_modules/color-convert/index.js
+node_modules/color-convert/LICENSE
+node_modules/color-convert/package.json
+node_modules/color-convert/README.md
+node_modules/color-convert/route.js
+node_modules/color-name/index.js
+node_modules/color-name/LICENSE
+node_modules/color-name/package.json
+node_modules/color-name/README.md
+node_modules/figlet/.jshintrc
+node_modules/figlet/.prettierignore
+node_modules/figlet/.prettierrc.json
+node_modules/figlet/.travis.yml
+node_modules/figlet/Gruntfile.js
+node_modules/figlet/LICENSE.txt
+node_modules/figlet/package.json
+node_modules/figlet/README.md
+node_modules/figlet/.idea/figlet.js.iml
+node_modules/figlet/.idea/misc.xml
+node_modules/figlet/.idea/modules.xml
+node_modules/figlet/.idea/prettier.xml
+node_modules/figlet/.idea/vcs.xml
+node_modules/figlet/.idea/inspectionProfiles/Project_Default.xml
+node_modules/figlet/.idea/jsLinters/jshint.xml
+node_modules/figlet/bin/index.js
+node_modules/figlet/doc/figfont.txt
+node_modules/figlet/examples/front-end/index.htm
+node_modules/figlet/examples/node/app.js
+node_modules/figlet/examples/node/appSync.js
+node_modules/figlet/fonts/1Row.flf
+node_modules/figlet/fonts/3-D.flf
+node_modules/figlet/fonts/3D Diagonal.flf
+node_modules/figlet/fonts/3D-ASCII.flf
+node_modules/figlet/fonts/3x5.flf
+node_modules/figlet/fonts/4Max.flf
+node_modules/figlet/fonts/5 Line Oblique.flf
+node_modules/figlet/fonts/Acrobatic.flf
+node_modules/figlet/fonts/Alligator.flf
+node_modules/figlet/fonts/Alligator2.flf
+node_modules/figlet/fonts/Alpha.flf
+node_modules/figlet/fonts/Alphabet.flf
+node_modules/figlet/fonts/AMC 3 Line.flf
+node_modules/figlet/fonts/AMC 3 Liv1.flf
+node_modules/figlet/fonts/AMC AAA01.flf
+node_modules/figlet/fonts/AMC Neko.flf
+node_modules/figlet/fonts/AMC Razor.flf
+node_modules/figlet/fonts/AMC Razor2.flf
+node_modules/figlet/fonts/AMC Slash.flf
+node_modules/figlet/fonts/AMC Slider.flf
+node_modules/figlet/fonts/AMC Thin.flf
+node_modules/figlet/fonts/AMC Tubes.flf
+node_modules/figlet/fonts/AMC Untitled.flf
+node_modules/figlet/fonts/ANSI Regular.flf
+node_modules/figlet/fonts/ANSI Shadow.flf
+node_modules/figlet/fonts/Arrows.flf
+node_modules/figlet/fonts/ASCII New Roman.flf
+node_modules/figlet/fonts/Avatar.flf
+node_modules/figlet/fonts/B1FF.flf
+node_modules/figlet/fonts/Banner.flf
+node_modules/figlet/fonts/Banner3-D.flf
+node_modules/figlet/fonts/Banner3.flf
+node_modules/figlet/fonts/Banner4.flf
+node_modules/figlet/fonts/Barbwire.flf
+node_modules/figlet/fonts/Basic.flf
+node_modules/figlet/fonts/Bear.flf
+node_modules/figlet/fonts/Bell.flf
+node_modules/figlet/fonts/Benjamin.flf
+node_modules/figlet/fonts/Big Chief.flf
+node_modules/figlet/fonts/Big Money-ne.flf
+node_modules/figlet/fonts/Big Money-nw.flf
+node_modules/figlet/fonts/Big Money-se.flf
+node_modules/figlet/fonts/Big Money-sw.flf
+node_modules/figlet/fonts/Big.flf
+node_modules/figlet/fonts/Bigfig.flf
+node_modules/figlet/fonts/Binary.flf
+node_modules/figlet/fonts/Block.flf
+node_modules/figlet/fonts/Blocks.flf
+node_modules/figlet/fonts/Bloody.flf
+node_modules/figlet/fonts/Bolger.flf
+node_modules/figlet/fonts/Braced.flf
+node_modules/figlet/fonts/Bright.flf
+node_modules/figlet/fonts/Broadway KB.flf
+node_modules/figlet/fonts/Broadway.flf
+node_modules/figlet/fonts/Bubble.flf
+node_modules/figlet/fonts/Bulbhead.flf
+node_modules/figlet/fonts/Caligraphy.flf
+node_modules/figlet/fonts/Caligraphy2.flf
+node_modules/figlet/fonts/Calvin S.flf
+node_modules/figlet/fonts/Cards.flf
+node_modules/figlet/fonts/Catwalk.flf
+node_modules/figlet/fonts/Chiseled.flf
+node_modules/figlet/fonts/Chunky.flf
+node_modules/figlet/fonts/Coinstak.flf
+node_modules/figlet/fonts/Cola.flf
+node_modules/figlet/fonts/Colossal.flf
+node_modules/figlet/fonts/Computer.flf
+node_modules/figlet/fonts/Contessa.flf
+node_modules/figlet/fonts/Contrast.flf
+node_modules/figlet/fonts/Cosmike.flf
+node_modules/figlet/fonts/Crawford.flf
+node_modules/figlet/fonts/Crawford2.flf
+node_modules/figlet/fonts/Crazy.flf
+node_modules/figlet/fonts/Cricket.flf
+node_modules/figlet/fonts/Cursive.flf
+node_modules/figlet/fonts/Cyberlarge.flf
+node_modules/figlet/fonts/Cybermedium.flf
+node_modules/figlet/fonts/Cybersmall.flf
+node_modules/figlet/fonts/Cygnet.flf
+node_modules/figlet/fonts/DANC4.flf
+node_modules/figlet/fonts/Dancing Font.flf
+node_modules/figlet/fonts/Decimal.flf
+node_modules/figlet/fonts/Def Leppard.flf
+node_modules/figlet/fonts/Delta Corps Priest 1.flf
+node_modules/figlet/fonts/Diamond.flf
+node_modules/figlet/fonts/Diet Cola.flf
+node_modules/figlet/fonts/Digital.flf
+node_modules/figlet/fonts/Doh.flf
+node_modules/figlet/fonts/Doom.flf
+node_modules/figlet/fonts/DOS Rebel.flf
+node_modules/figlet/fonts/Dot Matrix.flf
+node_modules/figlet/fonts/Double Shorts.flf
+node_modules/figlet/fonts/Double.flf
+node_modules/figlet/fonts/Dr Pepper.flf
+node_modules/figlet/fonts/DWhistled.flf
+node_modules/figlet/fonts/Efti Chess.flf
+node_modules/figlet/fonts/Efti Font.flf
+node_modules/figlet/fonts/Efti Italic.flf
+node_modules/figlet/fonts/Efti Piti.flf
+node_modules/figlet/fonts/Efti Robot.flf
+node_modules/figlet/fonts/Efti Wall.flf
+node_modules/figlet/fonts/Efti Water.flf
+node_modules/figlet/fonts/Electronic.flf
+node_modules/figlet/fonts/Elite.flf
+node_modules/figlet/fonts/Epic.flf
+node_modules/figlet/fonts/Fender.flf
+node_modules/figlet/fonts/Filter.flf
+node_modules/figlet/fonts/Fire Font-k.flf
+node_modules/figlet/fonts/Fire Font-s.flf
+node_modules/figlet/fonts/Flipped.flf
+node_modules/figlet/fonts/Flower Power.flf
+node_modules/figlet/fonts/Four Tops.flf
+node_modules/figlet/fonts/Fraktur.flf
+node_modules/figlet/fonts/Fun Face.flf
+node_modules/figlet/fonts/Fun Faces.flf
+node_modules/figlet/fonts/Fuzzy.flf
+node_modules/figlet/fonts/Georgi16.flf
+node_modules/figlet/fonts/Georgia11.flf
+node_modules/figlet/fonts/Ghost.flf
+node_modules/figlet/fonts/Ghoulish.flf
+node_modules/figlet/fonts/Glenyn.flf
+node_modules/figlet/fonts/Goofy.flf
+node_modules/figlet/fonts/Gothic.flf
+node_modules/figlet/fonts/Graceful.flf
+node_modules/figlet/fonts/Gradient.flf
+node_modules/figlet/fonts/Graffiti.flf
+node_modules/figlet/fonts/Greek.flf
+node_modules/figlet/fonts/Heart Left.flf
+node_modules/figlet/fonts/Heart Right.flf
+node_modules/figlet/fonts/Henry 3D.flf
+node_modules/figlet/fonts/Hex.flf
+node_modules/figlet/fonts/Hieroglyphs.flf
+node_modules/figlet/fonts/Hollywood.flf
+node_modules/figlet/fonts/Horizontal Left.flf
+node_modules/figlet/fonts/Horizontal Right.flf
+node_modules/figlet/fonts/ICL-1900.flf
+node_modules/figlet/fonts/Impossible.flf
+node_modules/figlet/fonts/Invita.flf
+node_modules/figlet/fonts/Isometric1.flf
+node_modules/figlet/fonts/Isometric2.flf
+node_modules/figlet/fonts/Isometric3.flf
+node_modules/figlet/fonts/Isometric4.flf
+node_modules/figlet/fonts/Italic.flf
+node_modules/figlet/fonts/Ivrit.flf
+node_modules/figlet/fonts/Jacky.flf
+node_modules/figlet/fonts/Jazmine.flf
+node_modules/figlet/fonts/Jerusalem.flf
+node_modules/figlet/fonts/JS Block Letters.flf
+node_modules/figlet/fonts/JS Bracket Letters.flf
+node_modules/figlet/fonts/JS Capital Curves.flf
+node_modules/figlet/fonts/JS Cursive.flf
+node_modules/figlet/fonts/JS Stick Letters.flf
+node_modules/figlet/fonts/Katakana.flf
+node_modules/figlet/fonts/Kban.flf
+node_modules/figlet/fonts/Keyboard.flf
+node_modules/figlet/fonts/Knob.flf
+node_modules/figlet/fonts/Konto Slant.flf
+node_modules/figlet/fonts/Konto.flf
+node_modules/figlet/fonts/Larry 3D 2.flf
+node_modules/figlet/fonts/Larry 3D.flf
+node_modules/figlet/fonts/LCD.flf
+node_modules/figlet/fonts/Lean.flf
+node_modules/figlet/fonts/Letters.flf
+node_modules/figlet/fonts/Lil Devil.flf
+node_modules/figlet/fonts/Line Blocks.flf
+node_modules/figlet/fonts/Linux.flf
+node_modules/figlet/fonts/Lockergnome.flf
+node_modules/figlet/fonts/Madrid.flf
+node_modules/figlet/fonts/Marquee.flf
+node_modules/figlet/fonts/Maxfour.flf
+node_modules/figlet/fonts/Merlin1.flf
+node_modules/figlet/fonts/Merlin2.flf
+node_modules/figlet/fonts/Mike.flf
+node_modules/figlet/fonts/Mini.flf
+node_modules/figlet/fonts/Mirror.flf
+node_modules/figlet/fonts/Mnemonic.flf
+node_modules/figlet/fonts/Modular.flf
+node_modules/figlet/fonts/Morse.flf
+node_modules/figlet/fonts/Morse2.flf
+node_modules/figlet/fonts/Moscow.flf
+node_modules/figlet/fonts/Mshebrew210.flf
+node_modules/figlet/fonts/Muzzle.flf
+node_modules/figlet/fonts/Nancyj-Fancy.flf
+node_modules/figlet/fonts/Nancyj-Improved.flf
+node_modules/figlet/fonts/Nancyj-Underlined.flf
+node_modules/figlet/fonts/Nancyj.flf
+node_modules/figlet/fonts/Nipples.flf
+node_modules/figlet/fonts/NScript.flf
+node_modules/figlet/fonts/NT Greek.flf
+node_modules/figlet/fonts/NV Script.flf
+node_modules/figlet/fonts/O8.flf
+node_modules/figlet/fonts/Octal.flf
+node_modules/figlet/fonts/Ogre.flf
+node_modules/figlet/fonts/Old Banner.flf
+node_modules/figlet/fonts/OS2.flf
+node_modules/figlet/fonts/Pagga.flf
+node_modules/figlet/fonts/Patorjk-HeX.flf
+node_modules/figlet/fonts/Patorjk's Cheese.flf
+node_modules/figlet/fonts/Pawp.flf
+node_modules/figlet/fonts/Peaks Slant.flf
+node_modules/figlet/fonts/Peaks.flf
+node_modules/figlet/fonts/Pebbles.flf
+node_modules/figlet/fonts/Pepper.flf
+node_modules/figlet/fonts/Poison.flf
+node_modules/figlet/fonts/Puffy.flf
+node_modules/figlet/fonts/Puzzle.flf
+node_modules/figlet/fonts/Pyramid.flf
+node_modules/figlet/fonts/Rammstein.flf
+node_modules/figlet/fonts/Rectangles.flf
+node_modules/figlet/fonts/Red Phoenix.flf
+node_modules/figlet/fonts/Relief.flf
+node_modules/figlet/fonts/Relief2.flf
+node_modules/figlet/fonts/Reverse.flf
+node_modules/figlet/fonts/Roman.flf
+node_modules/figlet/fonts/Rot13.flf
+node_modules/figlet/fonts/Rotated.flf
+node_modules/figlet/fonts/Rounded.flf
+node_modules/figlet/fonts/Rowan Cap.flf
+node_modules/figlet/fonts/Rozzo.flf
+node_modules/figlet/fonts/Runic.flf
+node_modules/figlet/fonts/Runyc.flf
+node_modules/figlet/fonts/S Blood.flf
+node_modules/figlet/fonts/Santa Clara.flf
+node_modules/figlet/fonts/Script.flf
+node_modules/figlet/fonts/Serifcap.flf
+node_modules/figlet/fonts/Shadow.flf
+node_modules/figlet/fonts/Shimrod.flf
+node_modules/figlet/fonts/Short.flf
+node_modules/figlet/fonts/SL Script.flf
+node_modules/figlet/fonts/Slant Relief.flf
+node_modules/figlet/fonts/Slant.flf
+node_modules/figlet/fonts/Slide.flf
+node_modules/figlet/fonts/Small Caps.flf
+node_modules/figlet/fonts/Small Isometric1.flf
+node_modules/figlet/fonts/Small Keyboard.flf
+node_modules/figlet/fonts/Small Poison.flf
+node_modules/figlet/fonts/Small Script.flf
+node_modules/figlet/fonts/Small Shadow.flf
+node_modules/figlet/fonts/Small Slant.flf
+node_modules/figlet/fonts/Small Tengwar.flf
+node_modules/figlet/fonts/Small.flf
+node_modules/figlet/fonts/Soft.flf
+node_modules/figlet/fonts/Speed.flf
+node_modules/figlet/fonts/Spliff.flf
+node_modules/figlet/fonts/Stacey.flf
+node_modules/figlet/fonts/Stampate.flf
+node_modules/figlet/fonts/Stampatello.flf
+node_modules/figlet/fonts/Standard.flf
+node_modules/figlet/fonts/Star Strips.flf
+node_modules/figlet/fonts/Star Wars.flf
+node_modules/figlet/fonts/Stellar.flf
+node_modules/figlet/fonts/Stforek.flf
+node_modules/figlet/fonts/Stick Letters.flf
+node_modules/figlet/fonts/Stop.flf
+node_modules/figlet/fonts/Straight.flf
+node_modules/figlet/fonts/Stronger Than All.flf
+node_modules/figlet/fonts/Sub-Zero.flf
+node_modules/figlet/fonts/Swamp Land.flf
+node_modules/figlet/fonts/Swan.flf
+node_modules/figlet/fonts/Sweet.flf
+node_modules/figlet/fonts/Tanja.flf
+node_modules/figlet/fonts/Tengwar.flf
+node_modules/figlet/fonts/Term.flf
+node_modules/figlet/fonts/Test1.flf
+node_modules/figlet/fonts/The Edge.flf
+node_modules/figlet/fonts/Thick.flf
+node_modules/figlet/fonts/Thin.flf
+node_modules/figlet/fonts/THIS.flf
+node_modules/figlet/fonts/Thorned.flf
+node_modules/figlet/fonts/Three Point.flf
+node_modules/figlet/fonts/Ticks Slant.flf
+node_modules/figlet/fonts/Ticks.flf
+node_modules/figlet/fonts/Tiles.flf
+node_modules/figlet/fonts/Tinker-Toy.flf
+node_modules/figlet/fonts/Tombstone.flf
+node_modules/figlet/fonts/Train.flf
+node_modules/figlet/fonts/Trek.flf
+node_modules/figlet/fonts/Tsalagi.flf
+node_modules/figlet/fonts/Tubular.flf
+node_modules/figlet/fonts/Twisted.flf
+node_modules/figlet/fonts/Two Point.flf
+node_modules/figlet/fonts/Univers.flf
+node_modules/figlet/fonts/USA Flag.flf
+node_modules/figlet/fonts/Varsity.flf
+node_modules/figlet/fonts/Wavy.flf
+node_modules/figlet/fonts/Weird.flf
+node_modules/figlet/fonts/Wet Letter.flf
+node_modules/figlet/fonts/Whimsy.flf
+node_modules/figlet/fonts/Wow.flf
+node_modules/figlet/importable-fonts/1Row.js
+node_modules/figlet/importable-fonts/3-D.js
+node_modules/figlet/importable-fonts/3D Diagonal.js
+node_modules/figlet/importable-fonts/3D-ASCII.js
+node_modules/figlet/importable-fonts/3x5.js
+node_modules/figlet/importable-fonts/4Max.js
+node_modules/figlet/importable-fonts/5 Line Oblique.js
+node_modules/figlet/importable-fonts/Acrobatic.js
+node_modules/figlet/importable-fonts/Alligator.js
+node_modules/figlet/importable-fonts/Alligator2.js
+node_modules/figlet/importable-fonts/Alpha.js
+node_modules/figlet/importable-fonts/Alphabet.js
+node_modules/figlet/importable-fonts/AMC 3 Line.js
+node_modules/figlet/importable-fonts/AMC 3 Liv1.js
+node_modules/figlet/importable-fonts/AMC AAA01.js
+node_modules/figlet/importable-fonts/AMC Neko.js
+node_modules/figlet/importable-fonts/AMC Razor.js
+node_modules/figlet/importable-fonts/AMC Razor2.js
+node_modules/figlet/importable-fonts/AMC Slash.js
+node_modules/figlet/importable-fonts/AMC Slider.js
+node_modules/figlet/importable-fonts/AMC Thin.js
+node_modules/figlet/importable-fonts/AMC Tubes.js
+node_modules/figlet/importable-fonts/AMC Untitled.js
+node_modules/figlet/importable-fonts/ANSI Regular.js
+node_modules/figlet/importable-fonts/ANSI Shadow.js
+node_modules/figlet/importable-fonts/Arrows.js
+node_modules/figlet/importable-fonts/ASCII New Roman.js
+node_modules/figlet/importable-fonts/Avatar.js
+node_modules/figlet/importable-fonts/B1FF.js
+node_modules/figlet/importable-fonts/Banner.js
+node_modules/figlet/importable-fonts/Banner3-D.js
+node_modules/figlet/importable-fonts/Banner3.js
+node_modules/figlet/importable-fonts/Banner4.js
+node_modules/figlet/importable-fonts/Barbwire.js
+node_modules/figlet/importable-fonts/Basic.js
+node_modules/figlet/importable-fonts/Bear.js
+node_modules/figlet/importable-fonts/Bell.js
+node_modules/figlet/importable-fonts/Benjamin.js
+node_modules/figlet/importable-fonts/Big Chief.js
+node_modules/figlet/importable-fonts/Big Money-ne.js
+node_modules/figlet/importable-fonts/Big Money-nw.js
+node_modules/figlet/importable-fonts/Big Money-se.js
+node_modules/figlet/importable-fonts/Big Money-sw.js
+node_modules/figlet/importable-fonts/Big.js
+node_modules/figlet/importable-fonts/Bigfig.js
+node_modules/figlet/importable-fonts/Binary.js
+node_modules/figlet/importable-fonts/Block.js
+node_modules/figlet/importable-fonts/Blocks.js
+node_modules/figlet/importable-fonts/Bloody.js
+node_modules/figlet/importable-fonts/Bolger.js
+node_modules/figlet/importable-fonts/Braced.js
+node_modules/figlet/importable-fonts/Bright.js
+node_modules/figlet/importable-fonts/Broadway KB.js
+node_modules/figlet/importable-fonts/Broadway.js
+node_modules/figlet/importable-fonts/Bubble.js
+node_modules/figlet/importable-fonts/Bulbhead.js
+node_modules/figlet/importable-fonts/Caligraphy.js
+node_modules/figlet/importable-fonts/Caligraphy2.js
+node_modules/figlet/importable-fonts/Calvin S.js
+node_modules/figlet/importable-fonts/Cards.js
+node_modules/figlet/importable-fonts/Catwalk.js
+node_modules/figlet/importable-fonts/Chiseled.js
+node_modules/figlet/importable-fonts/Chunky.js
+node_modules/figlet/importable-fonts/Coinstak.js
+node_modules/figlet/importable-fonts/Cola.js
+node_modules/figlet/importable-fonts/Colossal.js
+node_modules/figlet/importable-fonts/Computer.js
+node_modules/figlet/importable-fonts/Contessa.js
+node_modules/figlet/importable-fonts/Contrast.js
+node_modules/figlet/importable-fonts/Cosmike.js
+node_modules/figlet/importable-fonts/Crawford.js
+node_modules/figlet/importable-fonts/Crawford2.js
+node_modules/figlet/importable-fonts/Crazy.js
+node_modules/figlet/importable-fonts/Cricket.js
+node_modules/figlet/importable-fonts/Cursive.js
+node_modules/figlet/importable-fonts/Cyberlarge.js
+node_modules/figlet/importable-fonts/Cybermedium.js
+node_modules/figlet/importable-fonts/Cybersmall.js
+node_modules/figlet/importable-fonts/Cygnet.js
+node_modules/figlet/importable-fonts/DANC4.js
+node_modules/figlet/importable-fonts/Dancing Font.js
+node_modules/figlet/importable-fonts/Decimal.js
+node_modules/figlet/importable-fonts/Def Leppard.js
+node_modules/figlet/importable-fonts/Delta Corps Priest 1.js
+node_modules/figlet/importable-fonts/Diamond.js
+node_modules/figlet/importable-fonts/Diet Cola.js
+node_modules/figlet/importable-fonts/Digital.js
+node_modules/figlet/importable-fonts/Doh.js
+node_modules/figlet/importable-fonts/Doom.js
+node_modules/figlet/importable-fonts/DOS Rebel.js
+node_modules/figlet/importable-fonts/Dot Matrix.js
+node_modules/figlet/importable-fonts/Double Shorts.js
+node_modules/figlet/importable-fonts/Double.js
+node_modules/figlet/importable-fonts/Dr Pepper.js
+node_modules/figlet/importable-fonts/DWhistled.js
+node_modules/figlet/importable-fonts/Efti Chess.js
+node_modules/figlet/importable-fonts/Efti Font.js
+node_modules/figlet/importable-fonts/Efti Italic.js
+node_modules/figlet/importable-fonts/Efti Piti.js
+node_modules/figlet/importable-fonts/Efti Robot.js
+node_modules/figlet/importable-fonts/Efti Wall.js
+node_modules/figlet/importable-fonts/Efti Water.js
+node_modules/figlet/importable-fonts/Electronic.js
+node_modules/figlet/importable-fonts/Elite.js
+node_modules/figlet/importable-fonts/Epic.js
+node_modules/figlet/importable-fonts/Fender.js
+node_modules/figlet/importable-fonts/Filter.js
+node_modules/figlet/importable-fonts/Fire Font-k.js
+node_modules/figlet/importable-fonts/Fire Font-s.js
+node_modules/figlet/importable-fonts/Flipped.js
+node_modules/figlet/importable-fonts/Flower Power.js
+node_modules/figlet/importable-fonts/Four Tops.js
+node_modules/figlet/importable-fonts/Fraktur.js
+node_modules/figlet/importable-fonts/Fun Face.js
+node_modules/figlet/importable-fonts/Fun Faces.js
+node_modules/figlet/importable-fonts/Fuzzy.js
+node_modules/figlet/importable-fonts/Georgi16.js
+node_modules/figlet/importable-fonts/Georgia11.js
+node_modules/figlet/importable-fonts/Ghost.js
+node_modules/figlet/importable-fonts/Ghoulish.js
+node_modules/figlet/importable-fonts/Glenyn.js
+node_modules/figlet/importable-fonts/Goofy.js
+node_modules/figlet/importable-fonts/Gothic.js
+node_modules/figlet/importable-fonts/Graceful.js
+node_modules/figlet/importable-fonts/Gradient.js
+node_modules/figlet/importable-fonts/Graffiti.js
+node_modules/figlet/importable-fonts/Greek.js
+node_modules/figlet/importable-fonts/Heart Left.js
+node_modules/figlet/importable-fonts/Heart Right.js
+node_modules/figlet/importable-fonts/Henry 3D.js
+node_modules/figlet/importable-fonts/Hex.js
+node_modules/figlet/importable-fonts/Hieroglyphs.js
+node_modules/figlet/importable-fonts/Hollywood.js
+node_modules/figlet/importable-fonts/Horizontal Left.js
+node_modules/figlet/importable-fonts/Horizontal Right.js
+node_modules/figlet/importable-fonts/ICL-1900.js
+node_modules/figlet/importable-fonts/Impossible.js
+node_modules/figlet/importable-fonts/Invita.js
+node_modules/figlet/importable-fonts/Isometric1.js
+node_modules/figlet/importable-fonts/Isometric2.js
+node_modules/figlet/importable-fonts/Isometric3.js
+node_modules/figlet/importable-fonts/Isometric4.js
+node_modules/figlet/importable-fonts/Italic.js
+node_modules/figlet/importable-fonts/Ivrit.js
+node_modules/figlet/importable-fonts/Jacky.js
+node_modules/figlet/importable-fonts/Jazmine.js
+node_modules/figlet/importable-fonts/Jerusalem.js
+node_modules/figlet/importable-fonts/JS Block Letters.js
+node_modules/figlet/importable-fonts/JS Bracket Letters.js
+node_modules/figlet/importable-fonts/JS Capital Curves.js
+node_modules/figlet/importable-fonts/JS Cursive.js
+node_modules/figlet/importable-fonts/JS Stick Letters.js
+node_modules/figlet/importable-fonts/Katakana.js
+node_modules/figlet/importable-fonts/Kban.js
+node_modules/figlet/importable-fonts/Keyboard.js
+node_modules/figlet/importable-fonts/Knob.js
+node_modules/figlet/importable-fonts/Konto Slant.js
+node_modules/figlet/importable-fonts/Konto.js
+node_modules/figlet/importable-fonts/Larry 3D 2.js
+node_modules/figlet/importable-fonts/Larry 3D.js
+node_modules/figlet/importable-fonts/LCD.js
+node_modules/figlet/importable-fonts/Lean.js
+node_modules/figlet/importable-fonts/Letters.js
+node_modules/figlet/importable-fonts/Lil Devil.js
+node_modules/figlet/importable-fonts/Line Blocks.js
+node_modules/figlet/importable-fonts/Linux.js
+node_modules/figlet/importable-fonts/Lockergnome.js
+node_modules/figlet/importable-fonts/Madrid.js
+node_modules/figlet/importable-fonts/Marquee.js
+node_modules/figlet/importable-fonts/Maxfour.js
+node_modules/figlet/importable-fonts/Merlin1.js
+node_modules/figlet/importable-fonts/Merlin2.js
+node_modules/figlet/importable-fonts/Mike.js
+node_modules/figlet/importable-fonts/Mini.js
+node_modules/figlet/importable-fonts/Mirror.js
+node_modules/figlet/importable-fonts/Mnemonic.js
+node_modules/figlet/importable-fonts/Modular.js
+node_modules/figlet/importable-fonts/Morse.js
+node_modules/figlet/importable-fonts/Morse2.js
+node_modules/figlet/importable-fonts/Moscow.js
+node_modules/figlet/importable-fonts/Mshebrew210.js
+node_modules/figlet/importable-fonts/Muzzle.js
+node_modules/figlet/importable-fonts/Nancyj-Fancy.js
+node_modules/figlet/importable-fonts/Nancyj-Improved.js
+node_modules/figlet/importable-fonts/Nancyj-Underlined.js
+node_modules/figlet/importable-fonts/Nancyj.js
+node_modules/figlet/importable-fonts/Nipples.js
+node_modules/figlet/importable-fonts/NScript.js
+node_modules/figlet/importable-fonts/NT Greek.js
+node_modules/figlet/importable-fonts/NV Script.js
+node_modules/figlet/importable-fonts/O8.js
+node_modules/figlet/importable-fonts/Octal.js
+node_modules/figlet/importable-fonts/Ogre.js
+node_modules/figlet/importable-fonts/Old Banner.js
+node_modules/figlet/importable-fonts/OS2.js
+node_modules/figlet/importable-fonts/Pagga.js
+node_modules/figlet/importable-fonts/Patorjk-HeX.js
+node_modules/figlet/importable-fonts/Patorjk's Cheese.js
+node_modules/figlet/importable-fonts/Pawp.js
+node_modules/figlet/importable-fonts/Peaks Slant.js
+node_modules/figlet/importable-fonts/Peaks.js
+node_modules/figlet/importable-fonts/Pebbles.js
+node_modules/figlet/importable-fonts/Pepper.js
+node_modules/figlet/importable-fonts/Poison.js
+node_modules/figlet/importable-fonts/Puffy.js
+node_modules/figlet/importable-fonts/Puzzle.js
+node_modules/figlet/importable-fonts/Pyramid.js
+node_modules/figlet/importable-fonts/Rammstein.js
+node_modules/figlet/importable-fonts/Rectangles.js
+node_modules/figlet/importable-fonts/Red Phoenix.js
+node_modules/figlet/importable-fonts/Relief.js
+node_modules/figlet/importable-fonts/Relief2.js
+node_modules/figlet/importable-fonts/Reverse.js
+node_modules/figlet/importable-fonts/Roman.js
+node_modules/figlet/importable-fonts/Rot13.js
+node_modules/figlet/importable-fonts/Rotated.js
+node_modules/figlet/importable-fonts/Rounded.js
+node_modules/figlet/importable-fonts/Rowan Cap.js
+node_modules/figlet/importable-fonts/Rozzo.js
+node_modules/figlet/importable-fonts/Runic.js
+node_modules/figlet/importable-fonts/Runyc.js
+node_modules/figlet/importable-fonts/S Blood.js
+node_modules/figlet/importable-fonts/Santa Clara.js
+node_modules/figlet/importable-fonts/Script.js
+node_modules/figlet/importable-fonts/Serifcap.js
+node_modules/figlet/importable-fonts/Shadow.js
+node_modules/figlet/importable-fonts/Shimrod.js
+node_modules/figlet/importable-fonts/Short.js
+node_modules/figlet/importable-fonts/SL Script.js
+node_modules/figlet/importable-fonts/Slant Relief.js
+node_modules/figlet/importable-fonts/Slant.js
+node_modules/figlet/importable-fonts/Slide.js
+node_modules/figlet/importable-fonts/Small Caps.js
+node_modules/figlet/importable-fonts/Small Isometric1.js
+node_modules/figlet/importable-fonts/Small Keyboard.js
+node_modules/figlet/importable-fonts/Small Poison.js
+node_modules/figlet/importable-fonts/Small Script.js
+node_modules/figlet/importable-fonts/Small Shadow.js
+node_modules/figlet/importable-fonts/Small Slant.js
+node_modules/figlet/importable-fonts/Small Tengwar.js
+node_modules/figlet/importable-fonts/Small.js
+node_modules/figlet/importable-fonts/Soft.js
+node_modules/figlet/importable-fonts/Speed.js
+node_modules/figlet/importable-fonts/Spliff.js
+node_modules/figlet/importable-fonts/Stacey.js
+node_modules/figlet/importable-fonts/Stampate.js
+node_modules/figlet/importable-fonts/Stampatello.js
+node_modules/figlet/importable-fonts/Standard.js
+node_modules/figlet/importable-fonts/Star Strips.js
+node_modules/figlet/importable-fonts/Star Wars.js
+node_modules/figlet/importable-fonts/Stellar.js
+node_modules/figlet/importable-fonts/Stforek.js
+node_modules/figlet/importable-fonts/Stick Letters.js
+node_modules/figlet/importable-fonts/Stop.js
+node_modules/figlet/importable-fonts/Straight.js
+node_modules/figlet/importable-fonts/Stronger Than All.js
+node_modules/figlet/importable-fonts/Sub-Zero.js
+node_modules/figlet/importable-fonts/Swamp Land.js
+node_modules/figlet/importable-fonts/Swan.js
+node_modules/figlet/importable-fonts/Sweet.js
+node_modules/figlet/importable-fonts/Tanja.js
+node_modules/figlet/importable-fonts/Tengwar.js
+node_modules/figlet/importable-fonts/Term.js
+node_modules/figlet/importable-fonts/Test1.js
+node_modules/figlet/importable-fonts/The Edge.js
+node_modules/figlet/importable-fonts/Thick.js
+node_modules/figlet/importable-fonts/Thin.js
+node_modules/figlet/importable-fonts/THIS.js
+node_modules/figlet/importable-fonts/Thorned.js
+node_modules/figlet/importable-fonts/Three Point.js
+node_modules/figlet/importable-fonts/Ticks Slant.js
+node_modules/figlet/importable-fonts/Ticks.js
+node_modules/figlet/importable-fonts/Tiles.js
+node_modules/figlet/importable-fonts/Tinker-Toy.js
+node_modules/figlet/importable-fonts/Tombstone.js
+node_modules/figlet/importable-fonts/Train.js
+node_modules/figlet/importable-fonts/Trek.js
+node_modules/figlet/importable-fonts/Tsalagi.js
+node_modules/figlet/importable-fonts/Tubular.js
+node_modules/figlet/importable-fonts/Twisted.js
+node_modules/figlet/importable-fonts/Two Point.js
+node_modules/figlet/importable-fonts/Univers.js
+node_modules/figlet/importable-fonts/USA Flag.js
+node_modules/figlet/importable-fonts/Varsity.js
+node_modules/figlet/importable-fonts/Wavy.js
+node_modules/figlet/importable-fonts/Weird.js
+node_modules/figlet/importable-fonts/Wet Letter.js
+node_modules/figlet/importable-fonts/Whimsy.js
+node_modules/figlet/importable-fonts/Wow.js
+node_modules/figlet/lib/figlet.js
+node_modules/figlet/lib/node-figlet.js
+node_modules/figlet/test/figlet_test.js
+node_modules/figlet/test/expected/.gitattributes
+node_modules/figlet/test/expected/dancingFont
+node_modules/figlet/test/expected/dancingFontReverse
+node_modules/figlet/test/expected/graffiti
+node_modules/figlet/test/expected/standard
+node_modules/figlet/test/expected/verticalSmushRule2
+node_modules/figlet/test/expected/wrapSimple
+node_modules/figlet/test/expected/wrapSimpleThreeLines
+node_modules/figlet/test/expected/wrapWhitespaceBreakWord
+node_modules/figlet/test/expected/wrapWhitespaceLogString
+node_modules/figlet/test/expected/wrapWord
+node_modules/figlet/test/expected/wrapWordThreeLines
+node_modules/figlet/utils/flf-to-strings.js
+node_modules/gradient-string/index.js
+node_modules/gradient-string/LICENSE
+node_modules/gradient-string/package.json
+node_modules/gradient-string/README.md
+node_modules/has-flag/index.d.ts
+node_modules/has-flag/index.js
+node_modules/has-flag/license
+node_modules/has-flag/package.json
+node_modules/has-flag/readme.md
+node_modules/os/index.js
+node_modules/os/package.json
+node_modules/os/README.md
+node_modules/supports-color/browser.js
+node_modules/supports-color/index.js
+node_modules/supports-color/license
+node_modules/supports-color/package.json
+node_modules/supports-color/readme.md
+node_modules/tinycolor2/deno_asserts@0.168.0.mjs
+node_modules/tinycolor2/LICENSE
+node_modules/tinycolor2/package.json
+node_modules/tinycolor2/README.md
+node_modules/tinycolor2/tinycolor.js
+node_modules/tinycolor2/cjs/package.json
+node_modules/tinycolor2/cjs/test_template.js
+node_modules/tinycolor2/cjs/test.js
+node_modules/tinycolor2/cjs/tinycolor.js
+node_modules/tinycolor2/dist/tinycolor-min.js
+node_modules/tinycolor2/esm/package.json
+node_modules/tinycolor2/esm/test_template.js
+node_modules/tinycolor2/esm/test.js
+node_modules/tinycolor2/esm/tinycolor.js
+node_modules/tinygradient/browser.js
+node_modules/tinygradient/browser.js.map
+node_modules/tinygradient/index.js
+node_modules/tinygradient/LICENSE
+node_modules/tinygradient/package.json
+node_modules/tinygradient/README.md
+node_modules/tinygradient/types.d.ts
+node_modules/typescript/LICENSE.txt
+node_modules/typescript/package.json
+node_modules/typescript/README.md
+node_modules/typescript/SECURITY.md
+node_modules/typescript/ThirdPartyNoticeText.txt
+node_modules/typescript/bin/tsc
+node_modules/typescript/bin/tsserver
+node_modules/typescript/lib/cancellationToken.js
+node_modules/typescript/lib/lib.d.ts
+node_modules/typescript/lib/lib.decorators.d.ts
+node_modules/typescript/lib/lib.decorators.legacy.d.ts
+node_modules/typescript/lib/lib.dom.d.ts
+node_modules/typescript/lib/lib.dom.iterable.d.ts
+node_modules/typescript/lib/lib.es5.d.ts
+node_modules/typescript/lib/lib.es6.d.ts
+node_modules/typescript/lib/lib.es2015.collection.d.ts
+node_modules/typescript/lib/lib.es2015.core.d.ts
+node_modules/typescript/lib/lib.es2015.d.ts
+node_modules/typescript/lib/lib.es2015.generator.d.ts
+node_modules/typescript/lib/lib.es2015.iterable.d.ts
+node_modules/typescript/lib/lib.es2015.promise.d.ts
+node_modules/typescript/lib/lib.es2015.proxy.d.ts
+node_modules/typescript/lib/lib.es2015.reflect.d.ts
+node_modules/typescript/lib/lib.es2015.symbol.d.ts
+node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts
+node_modules/typescript/lib/lib.es2016.array.include.d.ts
+node_modules/typescript/lib/lib.es2016.d.ts
+node_modules/typescript/lib/lib.es2016.full.d.ts
+node_modules/typescript/lib/lib.es2017.d.ts
+node_modules/typescript/lib/lib.es2017.full.d.ts
+node_modules/typescript/lib/lib.es2017.intl.d.ts
+node_modules/typescript/lib/lib.es2017.object.d.ts
+node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts
+node_modules/typescript/lib/lib.es2017.string.d.ts
+node_modules/typescript/lib/lib.es2017.typedarrays.d.ts
+node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts
+node_modules/typescript/lib/lib.es2018.asynciterable.d.ts
+node_modules/typescript/lib/lib.es2018.d.ts
+node_modules/typescript/lib/lib.es2018.full.d.ts
+node_modules/typescript/lib/lib.es2018.intl.d.ts
+node_modules/typescript/lib/lib.es2018.promise.d.ts
+node_modules/typescript/lib/lib.es2018.regexp.d.ts
+node_modules/typescript/lib/lib.es2019.array.d.ts
+node_modules/typescript/lib/lib.es2019.d.ts
+node_modules/typescript/lib/lib.es2019.full.d.ts
+node_modules/typescript/lib/lib.es2019.intl.d.ts
+node_modules/typescript/lib/lib.es2019.object.d.ts
+node_modules/typescript/lib/lib.es2019.string.d.ts
+node_modules/typescript/lib/lib.es2019.symbol.d.ts
+node_modules/typescript/lib/lib.es2020.bigint.d.ts
+node_modules/typescript/lib/lib.es2020.d.ts
+node_modules/typescript/lib/lib.es2020.date.d.ts
+node_modules/typescript/lib/lib.es2020.full.d.ts
+node_modules/typescript/lib/lib.es2020.intl.d.ts
+node_modules/typescript/lib/lib.es2020.number.d.ts
+node_modules/typescript/lib/lib.es2020.promise.d.ts
+node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts
+node_modules/typescript/lib/lib.es2020.string.d.ts
+node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts
+node_modules/typescript/lib/lib.es2021.d.ts
+node_modules/typescript/lib/lib.es2021.full.d.ts
+node_modules/typescript/lib/lib.es2021.intl.d.ts
+node_modules/typescript/lib/lib.es2021.promise.d.ts
+node_modules/typescript/lib/lib.es2021.string.d.ts
+node_modules/typescript/lib/lib.es2021.weakref.d.ts
+node_modules/typescript/lib/lib.es2022.array.d.ts
+node_modules/typescript/lib/lib.es2022.d.ts
+node_modules/typescript/lib/lib.es2022.error.d.ts
+node_modules/typescript/lib/lib.es2022.full.d.ts
+node_modules/typescript/lib/lib.es2022.intl.d.ts
+node_modules/typescript/lib/lib.es2022.object.d.ts
+node_modules/typescript/lib/lib.es2022.regexp.d.ts
+node_modules/typescript/lib/lib.es2022.sharedmemory.d.ts
+node_modules/typescript/lib/lib.es2022.string.d.ts
+node_modules/typescript/lib/lib.es2023.array.d.ts
+node_modules/typescript/lib/lib.es2023.d.ts
+node_modules/typescript/lib/lib.es2023.full.d.ts
+node_modules/typescript/lib/lib.esnext.d.ts
+node_modules/typescript/lib/lib.esnext.full.d.ts
+node_modules/typescript/lib/lib.esnext.intl.d.ts
+node_modules/typescript/lib/lib.scripthost.d.ts
+node_modules/typescript/lib/lib.webworker.d.ts
+node_modules/typescript/lib/lib.webworker.importscripts.d.ts
+node_modules/typescript/lib/lib.webworker.iterable.d.ts
+node_modules/typescript/lib/README.md
+node_modules/typescript/lib/tsc.js
+node_modules/typescript/lib/tsserver.js
+node_modules/typescript/lib/tsserverlibrary.d.ts
+node_modules/typescript/lib/tsserverlibrary.js
+node_modules/typescript/lib/typescript.d.ts
+node_modules/typescript/lib/typescript.js
+node_modules/typescript/lib/typesMap.json
+node_modules/typescript/lib/typingsInstaller.js
+node_modules/typescript/lib/watchGuard.js
+node_modules/typescript/lib/cs/diagnosticMessages.generated.json
+node_modules/typescript/lib/de/diagnosticMessages.generated.json
+node_modules/typescript/lib/es/diagnosticMessages.generated.json
+node_modules/typescript/lib/fr/diagnosticMessages.generated.json
+node_modules/typescript/lib/it/diagnosticMessages.generated.json
+node_modules/typescript/lib/ja/diagnosticMessages.generated.json
+node_modules/typescript/lib/ko/diagnosticMessages.generated.json
+node_modules/typescript/lib/pl/diagnosticMessages.generated.json
+node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json
+node_modules/typescript/lib/ru/diagnosticMessages.generated.json
+node_modules/typescript/lib/tr/diagnosticMessages.generated.json
+node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json
+node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json
